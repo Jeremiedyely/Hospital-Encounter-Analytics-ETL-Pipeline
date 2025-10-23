@@ -9,7 +9,7 @@
 A large hospital network needs a **clean, unified, and analytics-ready dataset** combining patients, providers, encounters, diagnoses, and procedures.  
 Currently, this data is scattered across multiple SQL tables, making it difficult for analysts in the **Billing** and **Quality Management** teams to extract insights.
 
-You’ve been assigned as a **junior data engineer** to build a **Python-based ETL pipeline** that automates this process and produces a set of summary reports.
+You’ve been assigned as a **junior data engineer - Jeremie Dyely** to build a **Python-based ETL pipeline** that automates this process and produces a set of summary reports.
 
 ---
 
