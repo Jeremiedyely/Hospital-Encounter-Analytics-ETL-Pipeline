@@ -1,0 +1,41 @@
+specialty,admit_type,encounters
+Cardiology,ED,37
+Cardiology,Elective,32
+Cardiology,Newborn,37
+Cardiology,Urgent,52
+Emergency,ED,50
+Emergency,Elective,60
+Emergency,Newborn,47
+Emergency,Urgent,53
+Endocrinology,ED,58
+Endocrinology,Elective,44
+Endocrinology,Newborn,43
+Endocrinology,Urgent,44
+Family Medicine,ED,55
+Family Medicine,Elective,56
+Family Medicine,Newborn,58
+Family Medicine,Urgent,61
+Internal Medicine,ED,95
+Internal Medicine,Elective,84
+Internal Medicine,Newborn,83
+Internal Medicine,Urgent,71
+Neurology,ED,73
+Neurology,Elective,70
+Neurology,Newborn,55
+Neurology,Urgent,68
+Orthopedics,ED,10
+Orthopedics,Elective,9
+Orthopedics,Newborn,12
+Orthopedics,Urgent,10
+Pediatrics,ED,31
+Pediatrics,Elective,31
+Pediatrics,Newborn,32
+Pediatrics,Urgent,33
+Pulmonology,ED,45
+Pulmonology,Elective,44
+Pulmonology,Newborn,45
+Pulmonology,Urgent,49
+Surgery,ED,65
+Surgery,Elective,67
+Surgery,Newborn,61
+Surgery,Urgent,70

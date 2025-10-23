@@ -1,0 +1,10 @@
+description,proc_cost
+Colonoscopy,487106.69
+Head CT,458795.61
+"ED visit, high severity",169853.73
+"ED visit, moderate",109536.56999999999
+Chest X-ray,48817.7
+Electrocardiogram,27139.01
+Comprehensive metabolic panel,16180.35
+Complete blood count,10556.58
+EKG interpretation,9527.95

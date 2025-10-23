@@ -1,0 +1,20 @@
+icd10,count,description
+K21.9,188,Gastro-esophageal reflux disease without esophagitis
+M54.5,182,Low back pain
+N39.0,180,"Urinary tract infection, site not specified"
+R07.9,177,"Chest pain, unspecified"
+I50.9,176,"Heart failure, unspecified"
+J44.1,172,COPD with (acute) exacerbation
+I10,168,Essential (primary) hypertension
+R55,167,Syncope and collapse
+J18.9,158,"Pneumonia, unspecified organism"
+E11.9,155,Type 2 diabetes mellitus without complications
+J45.901,38,Unspecified asthma with (acute) exacerbation
+L03.90,36,"Cellulitis, unspecified"
+C34.90,32,Malignant neoplasm of unspecified part of unspecified bronchus or lung
+E03.9,31,"Hypothyroidism, unspecified"
+K52.9,31,"Noninfective gastroenteritis and colitis, unspecified"
+A41.9,30,"Sepsis, unspecified organism"
+I63.9,29,"Cerebral infarction, unspecified"
+G40.909,25,"Epilepsy, unspecified, not intractable, without status epilepticus"
+D64.9,25,"Anemia, unspecified"
